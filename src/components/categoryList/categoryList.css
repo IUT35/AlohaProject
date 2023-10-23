@@ -1,0 +1,21 @@
+.cList {
+    width: 100px;
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    margin-right:950px ;
+    
+
+}
+
+.cListItem {
+    border-radius:5px;
+    cursor: pointer;
+    overflow:unset;
+}
+.cListImg {
+object-fit: cover;
+
+}
